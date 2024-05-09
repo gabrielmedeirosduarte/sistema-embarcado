@@ -20,5 +20,5 @@ Após a finalização do Hardware do sistema embarcado, os seguintes passos prec
 
 8- Realizar o "flash";
 
-9- Executar o código "ihm.py", presente em "/IHM", alterando o nome da PORTA do computador em que o ESP estará conectado, como por exemplo, COM3. 
+9- Executar o código "ihm.py", presente em "/IHM", alterando o nome da PORTA do computador em que o ESP estará conectado, como por exemplo, "COM3". 
 
