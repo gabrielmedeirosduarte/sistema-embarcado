@@ -16,9 +16,14 @@ Após a finalização do Hardware do sistema embarcado, os seguintes passos prec
 
 6- Realizar configurações iniciais do projeto, como "set-target";
 
-7- Realizar o "build";
+7- Realizar "build";
 
-8- Realizar o "flash";
+8- Realizar "flash";
 
 9- Executar o código "ihm.py", presente em "/IHM", alterando o nome da PORTA do computador em que o ESP estará conectado, como por exemplo, "COM3". 
 
+## Referência bibliográfica:
+
+Mais detalhes sobre o projeto estão disponíveis em:
+
+Duarte, G., Júnior, K., Oliveira, L., and Leite, V.J.S. (2024). Sistema Embarcado para Aplicações em Disciplinas Experimentais. Congresso Brasileiro de Automática, 1-7.
