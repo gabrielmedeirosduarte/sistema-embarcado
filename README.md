@@ -24,7 +24,7 @@ Após a finalização do Hardware do sistema embarcado, os seguintes passos prec
 
 ## Vídeo demonstrativo:
 
-https://www.youtube.com/watch?v=qVk5SaiQ6CY
+https://youtu.be/XCJepJpGyzU
 
 ## Referência bibliográfica:
 
